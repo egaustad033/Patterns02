@@ -11,6 +11,6 @@ Green capsule is randomize.
 
 There should be no red errors and should be working fine.
 
-My user stories are in a text file lables userstories int he main folder.
+My user stories are in a text file lables UserStories.txt in the main folder.
 
 
