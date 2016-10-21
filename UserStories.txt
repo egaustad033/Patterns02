@@ -1,0 +1,19 @@
+User Stories:
+
+Story 1
+-Create Train
+-Create Rail
+-Create two end points of rail
+-Create Buttons to be clicked
+-Create camera angle to view from the side
+
+Story 2
+-Create movement forward
+-Create movement backward
+-Create stop movement
+-Assign the movements to the buttons
+-Create random modifier to change what each button does
+-Assign the random modifier to a third button
+
+
+
